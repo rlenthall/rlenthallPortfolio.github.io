@@ -1,0 +1,70 @@
+.tippy-top {
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'MedievalSharp';
+    font-size: 75px;
+    color: darkred;
+    text-shadow: 0px 0px 10px gold;
+    background-image: url(images/border.png);
+    background-size: contain;
+    background-repeat: repeat-x;
+    background-position: center;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'MedievalSharp';
+    font-size: 75px;
+    color: darkred;
+    text-shadow: 0px 0px 10px gold;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'MedievalSharp';
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    text-shadow: 0px 0px 10px rgb(0, 0, 0);
+}
+
+body {
+    background-image: url(images/wood.back.2.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+mark {
+    background-image: url(images/sign.png);
+    background-position: center;
+    background-size: 120%;
+    background-color: transparent;
+    color: darkred;
+}
+
+a {
+    color: rgb(0, 43, 185);
+}
+
+a:hover {
+    color: brown;
+}
+
+.leaf {
+    text-align: center;
+    font-family: 'MedievalSharp';
+    font-size: 25px;
+    background-image: url(images/leaf.png);
+    background-position-x: center;
+    background-size: 250px;
+    background-repeat: no-repeat;
+    background-clip: padding-box;
+    padding: 69px 69px 69px 69px;
+
+}
+
+.blackCaption {
+    color: black;
+    background-color: white;
+}
